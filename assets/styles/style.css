@@ -5,7 +5,7 @@
 }
 
 body {
-  background: linear-gradient(135deg, #F3F9FD 0%, #97bbca 100%);
+  background: linear-gradient(135deg, #e6ecef 0%, #97bbca 100%);
   width: 100vw;
   overflow: hidden;
   height: fit-content;
@@ -81,7 +81,7 @@ button {
   padding: 0.5rem 1.5rem;
   border: none;
   color: #fff;
-  background-color: #252e52;
+  background-color: #202746;
   border-radius: 20px;
   font-size: 1rem;
   width: 60%;
@@ -92,7 +92,7 @@ button {
 .submit-btn:hover {
   border: #050505 1px solid;
   color: #050505;
-  background-color: #afafaf;
+  background-color: #a3a2a2;
   transition: 0.3s ease-in-out;
   font-weight: 600;
 }
